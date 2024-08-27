@@ -269,7 +269,7 @@ button[type="submit"]:hover:before {
 .container-contato {
     display: flex;
     align-items: center;
-    height: 100vh;
+    height: 85vh;
     margin-left: 34rem;
     margin-top: 0;
 }
